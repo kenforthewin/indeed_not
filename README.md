@@ -1,5 +1,5 @@
 # indeed_not
-hide those annoying sponsored job postings on Indeed searches.
+hide those annoying sponsored job postings on Indeed.com searches.
 
 Open your console and copy this script:
 
